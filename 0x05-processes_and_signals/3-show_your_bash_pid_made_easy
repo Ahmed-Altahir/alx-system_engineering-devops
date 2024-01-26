@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Displays process name
+
+pgrep bash -l
