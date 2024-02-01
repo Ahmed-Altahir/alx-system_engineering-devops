@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#kelwckeew
+netstat -lt
